@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T04:23:02.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0ieJ-Sp5cmCHSmrkoEqU" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T04:23:17.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="psNdXZp8egvIfLoz50Sh" version="15.1.4" type="github">
   <diagram id="8BcMmelI0Logi7Ry-efs" name="Page-1">
     <mxGraphModel dx="597" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,19 +16,19 @@
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-4" value="vendedor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fnBv-I7Sc3eCWiU0PELT-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fnBv-I7Sc3eCWiU0PELT-5" target="fnBv-I7Sc3eCWiU0PELT-4">
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fnBv-I7Sc3eCWiU0PELT-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="619.8571428571429" y="170" as="targetPoint" />
+            <mxPoint x="560" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fnBv-I7Sc3eCWiU0PELT-5" target="fnBv-I7Sc3eCWiU0PELT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-5" value="venta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-6" value="productos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="680" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-10" value="&lt;h1&gt;Ejercicio 2&lt;/h1&gt;&lt;p&gt;Determine las asociaciones que se pueden presentar cuando usted realiza un viaje en autobús, no olvide establecer roles y multiplicidad.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="320" height="120" as="geometry" />
