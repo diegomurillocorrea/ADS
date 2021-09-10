@@ -1,17 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T04:19:40.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="IAnavzY3j2MbmsgdsIKq" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T04:20:38.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Pc3jU42JOdsTOccatS38" version="15.1.4" type="github">
   <diagram id="8BcMmelI0Logi7Ry-efs" name="Page-1">
-    <mxGraphModel dx="597" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="495" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-2" value="&lt;h1&gt;Ejercicio 1&lt;/h1&gt;&lt;p&gt;Desarrollar una representación gráfica de la asociación entre un cliente y un vendedor si se sabe que en esta asociación está implícita la clase venta y que a su vez esta se asociacon productos.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="320" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fnBv-I7Sc3eCWiU0PELT-3" target="fnBv-I7Sc3eCWiU0PELT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-3" value="cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-4" value="vendedor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fnBv-I7Sc3eCWiU0PELT-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="259.8571428571429" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fnBv-I7Sc3eCWiU0PELT-5" target="fnBv-I7Sc3eCWiU0PELT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-5" value="venta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-6" value="productos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
