@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T04:26:40.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="xFsMU145hBh83vkS-KcS" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T04:27:38.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="u3fi6ZwWhJPyyDadjPxL" version="15.1.4" type="github">
   <diagram id="8BcMmelI0Logi7Ry-efs" name="Page-1">
-    <mxGraphModel dx="346" dy="196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="116" dy="66" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,6 +50,12 @@
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-16" value="viaja en" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="540" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-17" value="pasajero" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-18" value="transporte" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
