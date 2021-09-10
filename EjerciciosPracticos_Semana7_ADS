@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T04:36:54.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="GblaZAkBv25Wx06Ay0rE" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T04:37:40.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="13NgmMZGG1kjX55D4xnm" version="15.1.4" type="github">
   <diagram id="8BcMmelI0Logi7Ry-efs" name="Page-1">
-    <mxGraphModel dx="241" dy="136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="722" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,10 +89,10 @@
           <mxGeometry x="80" y="440" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-34" value="Padre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-35" value="Madre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="602.5" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="602.5" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.469;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;endArrow=diamond;endFill=0;" edge="1" parent="1" source="fnBv-I7Sc3eCWiU0PELT-36" target="fnBv-I7Sc3eCWiU0PELT-35">
           <mxGeometry relative="1" as="geometry" />
@@ -101,28 +101,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-36" value="Hijo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="580" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-40" value="enseñan a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="540" y="520" width="80" height="20" as="geometry" />
+          <mxGeometry x="540" y="480" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-41" value="guía" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="470" y="520" width="40" height="20" as="geometry" />
+          <mxGeometry x="470" y="480" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-42" value="guía" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="643" y="520" width="40" height="20" as="geometry" />
+          <mxGeometry x="643" y="480" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-44" value="aprendiz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="520" y="560" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fnBv-I7Sc3eCWiU0PELT-45" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="520" y="520" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-45" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-46" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="603" y="520" width="40" height="20" as="geometry" />
+          <mxGeometry x="603" y="480" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-47" value="1..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="580" y="560" width="40" height="20" as="geometry" />
+          <mxGeometry x="580" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-48" value="&lt;h1&gt;Ejercicio 4&lt;/h1&gt;&lt;p&gt;Represente en un diagrama el elemento derivado para el atributo IVA&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="390" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
