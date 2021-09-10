@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T04:30:22.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="HpabpV26EIOPANfhLMKZ" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T04:30:57.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ji6K77ki2qogOwN4VCnE" version="15.1.4" type="github">
   <diagram id="8BcMmelI0Logi7Ry-efs" name="Page-1">
-    <mxGraphModel dx="597" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="346" dy="196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="fnBv-I7Sc3eCWiU0PELT-27" value="destino_persona" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="220" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fnBv-I7Sc3eCWiU0PELT-30" value="&lt;h1&gt;Ejercicio 3&lt;/h1&gt;&lt;p&gt;Establecer roles, multiplicidad en la asociación de una familia pequeña que cuenta con un padre, madre e hijo.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
