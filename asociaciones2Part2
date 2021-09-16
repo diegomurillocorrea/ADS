@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T01:35:25.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="_VEEqL9v6Sa0egN6CEYD" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T01:35:50.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="SWoTS7MImvslSjT2-Sft" version="15.2.7" type="github">
   <diagram id="xb8AOBmfXnoywzzwBOOi" name="Page-1">
-    <mxGraphModel dx="866" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="412" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,6 +62,12 @@
         </mxCell>
         <mxCell id="-MOxgkzwA4eiauO37IxX-20" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;b&gt;Universidad&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="500" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-MOxgkzwA4eiauO37IxX-22" value="1..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-MOxgkzwA4eiauO37IxX-23" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
