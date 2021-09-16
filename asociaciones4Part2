@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T03:43:42.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="CNJyB1YRbdfPuZdb3NSD" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T03:43:47.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="7NAbgKTUGon7IUKsOG4H" version="15.2.7" type="github">
   <diagram id="Eq4kfpUmEKIq3alVguKF" name="Page-1">
-    <mxGraphModel dx="289" dy="163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="597" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O08rllbgCRmHU825eFf7-22" value="{ edad = fecha_actual - fecha_cumpleaños }" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;" vertex="1" parent="1">
-          <mxGeometry x="230" y="552" width="260" height="50" as="geometry" />
+          <mxGeometry x="260" y="556" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
