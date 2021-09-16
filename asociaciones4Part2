@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T03:38:24.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="jW9Fo37s9H69U9-YUtic" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T03:38:51.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="XLFda9uEPWeIaEfrrbL_" version="15.2.7" type="github">
   <diagram id="Eq4kfpUmEKIq3alVguKF" name="Page-1">
-    <mxGraphModel dx="495" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="241" dy="136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O08rllbgCRmHU825eFf7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;dashed=1;" edge="1" parent="1" source="O08rllbgCRmHU825eFf7-2" target="O08rllbgCRmHU825eFf7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O08rllbgCRmHU825eFf7-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Planificación de Curso&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="160" height="40" as="geometry" />
         </mxCell>
