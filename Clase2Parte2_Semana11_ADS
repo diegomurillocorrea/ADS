@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T01:19:52.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="f6lvOMpy01kgrhpHudBg" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T01:20:04.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="jkUy7qnLI3IQuUt9L7Ev" version="15.4.1" type="github">
   <diagram id="R_NHVVKGOeOqAjNwr1px" name="Page-1">
     <mxGraphModel dx="597" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="V-IHZxbDM6wdr8mTC8Fr-54" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="70" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="V-IHZxbDM6wdr8mTC8Fr-55" value="Selecciona" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
