@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T01:04:35.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="PXCe-wDU9LvwszJo3lO3" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T01:04:59.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="1dJcc9X0d8VRsK543ceo" version="15.5.0" type="github">
   <diagram id="aYHjIDZFT2z1sZXZsBeQ" name="Page-1">
     <mxGraphModel dx="346" dy="196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
           <mxGeometry x="450" y="280" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q99oFDngfAFhlIO0gsZs-36" value="Presta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="435" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q99oFDngfAFhlIO0gsZs-39" value="Detalle_Prestamo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="520" width="160" height="138" as="geometry" />
