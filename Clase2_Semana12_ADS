@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T00:59:57.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="b5PEW3_rhbKBhWXiZU7M" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T01:00:21.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jr7O8yn8nw0DOCTJs513" version="15.5.1" type="github">
   <diagram id="fiDMRqHDkQGJwKfwC6Co" name="Page-1">
     <mxGraphModel dx="412" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,10 +21,13 @@
           <mxGeometry x="530" y="350" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tRync4T7dOflCQUabWfp-4" value="Puede ser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="445" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tRync4T7dOflCQUabWfp-5" value="Oponente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tRync4T7dOflCQUabWfp-6" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="415" y="210" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
