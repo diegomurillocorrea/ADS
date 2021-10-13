@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T01:28:26.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="vAxYShPR9zndAJ_UV6B3" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T01:28:47.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7k9HKPprshic6Hzckskb" version="15.5.1" type="github">
   <diagram id="sx8jPXHEDo4VpZWJJ74x" name="Page-1">
-    <mxGraphModel dx="722" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="346" dy="196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,6 +53,14 @@
         <mxCell id="3a6HyCYDCD_w1Bp8rTUe-13" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="40" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="3a6HyCYDCD_w1Bp8rTUe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="3a6HyCYDCD_w1Bp8rTUe-14" target="3a6HyCYDCD_w1Bp8rTUe-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="440" />
+              <mxPoint x="700" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3a6HyCYDCD_w1Bp8rTUe-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;b&gt;Imagenes&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="480" width="140" height="60" as="geometry" />
         </mxCell>
@@ -61,6 +69,14 @@
         </mxCell>
         <mxCell id="3a6HyCYDCD_w1Bp8rTUe-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;b&gt;Investigaciones&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="480" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3a6HyCYDCD_w1Bp8rTUe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="3a6HyCYDCD_w1Bp8rTUe-16" target="3a6HyCYDCD_w1Bp8rTUe-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="440" />
+              <mxPoint x="700" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3a6HyCYDCD_w1Bp8rTUe-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;b&gt;Tareas Practicas&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="480" width="140" height="60" as="geometry" />
