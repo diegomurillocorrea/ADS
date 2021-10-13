@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T00:45:49.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="LfB6rk913BnvLzwPEQ7e" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T00:50:22.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="n-w4du5Clo8zu2up9zVT" version="15.5.1" type="github">
   <diagram id="_nV8rjMOXrdBC6Is-vBG" name="Page-1">
-    <mxGraphModel dx="412" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,6 +144,12 @@
         </mxCell>
         <mxCell id="YsZVWyeS6I41_YKx-XW7-14" value="Aplica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YsZVWyeS6I41_YKx-XW7-15" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="870" y="235" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YsZVWyeS6I41_YKx-XW7-16" value="Imparte" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
