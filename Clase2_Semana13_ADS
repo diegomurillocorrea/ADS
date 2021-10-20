@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T01:09:40.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="s1jbSPOh0MCUIQ1Q_trW" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T01:09:51.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="crHCGmJNd8qrAbY9cq8z" version="15.5.5" type="github">
   <diagram id="y1tkZu3whiFYsGsP5Eth" name="Page-1">
     <mxGraphModel dx="1237" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -26,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d6koDusUXZZgjSyXn9ZE-5" value="Personal Administrativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="449" width="30" height="60" as="geometry" />
+          <mxGeometry x="90" y="540" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d6koDusUXZZgjSyXn9ZE-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="d6koDusUXZZgjSyXn9ZE-6" target="d6koDusUXZZgjSyXn9ZE-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d6koDusUXZZgjSyXn9ZE-6" value="Alumno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="529" width="30" height="60" as="geometry" />
+          <mxGeometry x="1010" y="529" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d6koDusUXZZgjSyXn9ZE-28" value="extends" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="d6koDusUXZZgjSyXn9ZE-7" target="d6koDusUXZZgjSyXn9ZE-17">
           <mxGeometry relative="1" as="geometry">
