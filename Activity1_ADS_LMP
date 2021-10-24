@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T02:46:28.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="4msjhb9xzgE5z0GZeHWe" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T02:47:37.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="wEUyqyIT6njngLHfjp3A" version="15.5.6" type="github">
   <diagram id="MygPpG7qLfrHm-Qf0W-P" name="Page-1">
-    <mxGraphModel dx="1716" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,6 +248,9 @@
         </mxCell>
         <mxCell id="3baRGAhpLH5aoj2k9KC2-106" value="fecha_devolución" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="655" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3baRGAhpLH5aoj2k9KC2-110" value="&lt;b&gt;Ejercicio 3&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="770" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
