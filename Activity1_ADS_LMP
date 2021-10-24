@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T03:02:32.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="XCiselOVI6QDk_fdlcpF" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T03:02:44.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="slT1f49kM_C32zJbD_k1" version="15.5.6" type="github">
   <diagram id="MygPpG7qLfrHm-Qf0W-P" name="Page-1">
     <mxGraphModel dx="409" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -340,8 +340,14 @@
         <mxCell id="3baRGAhpLH5aoj2k9KC2-139" value="1:M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="1015" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3baRGAhpLH5aoj2k9KC2-148" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3baRGAhpLH5aoj2k9KC2-144" target="3baRGAhpLH5aoj2k9KC2-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3baRGAhpLH5aoj2k9KC2-144" value="codigo_materia" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="390" y="830" width="100" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="3baRGAhpLH5aoj2k9KC2-149" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.707;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3baRGAhpLH5aoj2k9KC2-146" target="3baRGAhpLH5aoj2k9KC2-112">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3baRGAhpLH5aoj2k9KC2-146" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="830" width="70" height="45" as="geometry" />
