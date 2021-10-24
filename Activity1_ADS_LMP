@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T03:05:17.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="2BmeUIQ2KcdYVMLXhGJa" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T03:05:23.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="9LzUSyIIZCaamXY7kV1E" version="15.5.6" type="github">
   <diagram id="MygPpG7qLfrHm-Qf0W-P" name="Page-1">
     <mxGraphModel dx="238" dy="136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -361,13 +361,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3baRGAhpLH5aoj2k9KC2-150" value="id_docente" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="1155" width="80" height="30" as="geometry" />
+          <mxGeometry x="565" y="1170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3baRGAhpLH5aoj2k9KC2-159" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3baRGAhpLH5aoj2k9KC2-151" target="3baRGAhpLH5aoj2k9KC2-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3baRGAhpLH5aoj2k9KC2-151" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1211" width="60" height="30" as="geometry" />
+          <mxGeometry x="515" y="1211" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3baRGAhpLH5aoj2k9KC2-160" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3baRGAhpLH5aoj2k9KC2-152" target="3baRGAhpLH5aoj2k9KC2-117">
           <mxGeometry relative="1" as="geometry" />
