@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T02:38:25.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="zpPcBAANA-Vs-cK1FRRs" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T02:38:36.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="nDtbqWtvlswroTwK84WT" version="15.5.6" type="github">
   <diagram id="MygPpG7qLfrHm-Qf0W-P" name="Page-1">
     <mxGraphModel dx="715" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -242,6 +242,9 @@
         <mxCell id="3baRGAhpLH5aoj2k9KC2-82" value="cantidad_peliculas_prestadas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="540" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3baRGAhpLH5aoj2k9KC2-100" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3baRGAhpLH5aoj2k9KC2-85" target="3baRGAhpLH5aoj2k9KC2-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3baRGAhpLH5aoj2k9KC2-85" value="Factura" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="590" width="120" height="60" as="geometry" />
         </mxCell>
@@ -268,6 +271,9 @@
         </mxCell>
         <mxCell id="3baRGAhpLH5aoj2k9KC2-91" value="paga" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3baRGAhpLH5aoj2k9KC2-101" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3baRGAhpLH5aoj2k9KC2-99" target="3baRGAhpLH5aoj2k9KC2-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3baRGAhpLH5aoj2k9KC2-99" value="paga" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="690" width="80" height="80" as="geometry" />
