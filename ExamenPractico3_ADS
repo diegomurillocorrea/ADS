@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T01:45:34.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="UCJf7pEnVQJZ-U1MDOCW" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T01:45:53.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Ck0x1iUZohXygG004tbb" version="15.6.2" type="github">
   <diagram id="QD9zK_M4D1oL6qGxKEzG" name="Page-1">
     <mxGraphModel dx="1019" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,22 +33,22 @@
           <mxGeometry x="1739" y="970" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-16" value="Gestión Estudiantes" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-17" value="Gestión Cursos" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="715" width="120" height="50" as="geometry" />
+          <mxGeometry x="890" y="735" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-18" value="Gestión Docentes" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="800" width="120" height="50" as="geometry" />
+          <mxGeometry x="890" y="820" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-19" value="Gestión Empresas" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="880" width="120" height="50" as="geometry" />
+          <mxGeometry x="890" y="900" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-20" value="Gestión Notas" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="960" width="120" height="50" as="geometry" />
+          <mxGeometry x="890" y="980" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-21" value="Iniciar Sesión" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="800" width="120" height="50" as="geometry" />
+          <mxGeometry x="1240" y="800" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
