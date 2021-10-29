@@ -1,36 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T01:37:37.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="gCmG-n-U30-0_ePacibz" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T01:38:26.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="6YEhcSyxaXVKMpmYVR5w" version="15.6.2" type="github">
   <diagram id="QD9zK_M4D1oL6qGxKEzG" name="Page-1">
     <mxGraphModel dx="1456" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zl0RoGOjz6jAukEYoPlf-1" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="675" y="680" width="30" height="60" as="geometry" />
+          <mxGeometry x="680" y="790" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-2" value="Docente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1635" y="575" width="30" height="60" as="geometry" />
+          <mxGeometry x="1685" y="660" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-5" value="Alumno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1675" y="790" width="30" height="60" as="geometry" />
+          <mxGeometry x="1690" y="870" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="755" y="320" width="810" height="930" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="zl0RoGOjz6jAukEYoPlf-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1685" y="870" as="targetPoint" />
+            <mxPoint x="1700" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-8" value="Empleados" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1625" y="890" width="30" height="60" as="geometry" />
+          <mxGeometry x="1640" y="970" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="zl0RoGOjz6jAukEYoPlf-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1695" y="870" as="targetPoint" />
+            <mxPoint x="1710" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-9" value="Desempleados" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1724" y="890" width="30" height="60" as="geometry" />
+          <mxGeometry x="1739" y="970" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
