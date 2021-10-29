@@ -1,14 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T03:44:29.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="WELtmBbt68FX95QGPcA2" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T03:45:22.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="3yZpT-PJ1QDbslYVz5_T" version="15.6.2" type="github">
   <diagram id="QD9zK_M4D1oL6qGxKEzG" name="Page-1">
-    <mxGraphModel dx="1199" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="703" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zl0RoGOjz6jAukEYoPlf-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zl0RoGOjz6jAukEYoPlf-1" target="zl0RoGOjz6jAukEYoPlf-16">
+        <mxCell id="zl0RoGOjz6jAukEYoPlf-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zl0RoGOjz6jAukEYoPlf-1" target="zl0RoGOjz6jAukEYoPlf-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="490" />
-              <mxPoint x="989" y="490" />
+              <mxPoint x="650" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -84,8 +83,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zl0RoGOjz6jAukEYoPlf-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;endArrow=open;endFill=0;" edge="1" parent="1" source="zl0RoGOjz6jAukEYoPlf-16" target="zl0RoGOjz6jAukEYoPlf-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zl0RoGOjz6jAukEYoPlf-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;endArrow=open;endFill=0;" edge="1" parent="1" source="zl0RoGOjz6jAukEYoPlf-16" target="zl0RoGOjz6jAukEYoPlf-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996.3290666461294" y="390.54023142777504" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="905" y="361" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-33" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zl0RoGOjz6jAukEYoPlf-32">
           <mxGeometry x="-0.1307" y="8" relative="1" as="geometry">
@@ -108,7 +112,7 @@
           <mxGeometry x="1039" y="250" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-24" value="Buscar estudiantes" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="804" y="380" width="130" height="40" as="geometry" />
+          <mxGeometry x="840" y="449.45" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zl0RoGOjz6jAukEYoPlf-25" value="Eliminar estudiantes" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1039" y="420" width="130" height="40" as="geometry" />
