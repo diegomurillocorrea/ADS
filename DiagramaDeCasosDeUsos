@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T03:48:53.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QoxzIrt7ZBwuViPt9VeI" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T03:49:52.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="NuoOJg1VjrD21wypeO6Q" version="15.6.6" type="github">
   <diagram id="1T2t2CKwMdRRlxdjkFe5" name="Page-1">
-    <mxGraphModel dx="582" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="408" dy="225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,11 +27,26 @@
         <mxCell id="l6LislhmQFYhcsf59ypz-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;fontColor=default;endArrow=openThin;endFill=0;strokeColor=default;" edge="1" parent="1" source="l6LislhmQFYhcsf59ypz-7" target="l6LislhmQFYhcsf59ypz-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-21" value="includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;" vertex="1" connectable="0" parent="l6LislhmQFYhcsf59ypz-16">
+          <mxGeometry x="-0.2186" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;labelBackgroundColor=default;fontColor=default;endArrow=openThin;endFill=0;strokeColor=default;" edge="1" parent="1" source="l6LislhmQFYhcsf59ypz-7" target="l6LislhmQFYhcsf59ypz-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-22" value="includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;" vertex="1" connectable="0" parent="l6LislhmQFYhcsf59ypz-17">
+          <mxGeometry x="-0.4948" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;fontColor=default;endArrow=openThin;endFill=0;strokeColor=default;" edge="1" parent="1" source="l6LislhmQFYhcsf59ypz-7" target="l6LislhmQFYhcsf59ypz-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-23" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="l6LislhmQFYhcsf59ypz-18">
+          <mxGeometry x="-0.3877" y="-4" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-7" value="Gestión de Ordenes" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="555" y="282.5" width="135" height="50" as="geometry" />
@@ -46,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-10" value="Cobrar orden" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="100" height="25" as="geometry" />
+          <mxGeometry x="620" y="372.5" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-11" value="Entrega orden" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="597.5" y="200" width="110" height="30" as="geometry" />
@@ -59,6 +74,9 @@
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-13" value="Orden Pendiente" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-24" value="includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="670.0041524582414" y="349.95111548246666" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
