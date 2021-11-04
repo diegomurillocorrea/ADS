@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T03:46:32.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="PNJZO1ZOauWbttqOKKnb" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T03:48:53.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QoxzIrt7ZBwuViPt9VeI" version="15.6.6" type="github">
   <diagram id="1T2t2CKwMdRRlxdjkFe5" name="Page-1">
     <mxGraphModel dx="582" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -14,28 +14,51 @@
           <mxGeometry x="910" y="310" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="100" width="670" height="590" as="geometry" />
+          <mxGeometry x="170" y="100" width="670" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;curved=1;endArrow=openThin;endFill=0;strokeColor=default;labelBackgroundColor=default;dashed=1;" edge="1" parent="1" source="l6LislhmQFYhcsf59ypz-7" target="l6LislhmQFYhcsf59ypz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-15" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;" vertex="1" connectable="0" parent="l6LislhmQFYhcsf59ypz-14">
+          <mxGeometry x="-0.1684" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;fontColor=default;endArrow=openThin;endFill=0;strokeColor=default;" edge="1" parent="1" source="l6LislhmQFYhcsf59ypz-7" target="l6LislhmQFYhcsf59ypz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;labelBackgroundColor=default;fontColor=default;endArrow=openThin;endFill=0;strokeColor=default;" edge="1" parent="1" source="l6LislhmQFYhcsf59ypz-7" target="l6LislhmQFYhcsf59ypz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;fontColor=default;endArrow=openThin;endFill=0;strokeColor=default;" edge="1" parent="1" source="l6LislhmQFYhcsf59ypz-7" target="l6LislhmQFYhcsf59ypz-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-7" value="Gestión de Ordenes" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="290" width="135" height="50" as="geometry" />
+          <mxGeometry x="555" y="282.5" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-8" value="Ingresar orden" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="597.5" y="250" width="110" height="30" as="geometry" />
+          <mxGeometry x="372.5" y="287.5" width="112.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-9" value="Visualizar orden" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="380" width="110" height="40" as="geometry" />
+          <mxGeometry x="490" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;fontColor=default;endArrow=block;endFill=0;strokeColor=default;" edge="1" parent="1" source="l6LislhmQFYhcsf59ypz-10" target="l6LislhmQFYhcsf59ypz-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-10" value="Cobrar orden" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="375" width="110" height="40" as="geometry" />
+          <mxGeometry x="620" y="360" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-11" value="Entrega orden" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="290" width="110" height="40" as="geometry" />
+          <mxGeometry x="597.5" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l6LislhmQFYhcsf59ypz-12" value="Toma orden" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="200" width="110" height="40" as="geometry" />
+          <mxGeometry x="490" y="220" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l6LislhmQFYhcsf59ypz-13" value="Ver ordenes pendientes" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="597.5" y="460" width="152.5" height="40" as="geometry" />
+        <mxCell id="l6LislhmQFYhcsf59ypz-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;fontColor=default;endArrow=block;endFill=0;strokeColor=default;" edge="1" parent="1" source="l6LislhmQFYhcsf59ypz-13" target="l6LislhmQFYhcsf59ypz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6LislhmQFYhcsf59ypz-13" value="Orden Pendiente" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="430" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
