@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T08:20:06.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="w78FwsXIOXGPdcelbF0z" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T08:20:34.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="tNJmsPNfCa8FCiHqc9Hh" version="15.7.3" type="github">
   <diagram id="1T2t2CKwMdRRlxdjkFe5" name="Page-1">
     <mxGraphModel dx="849" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -435,19 +435,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcdEPGXsy1WZwWXos3ms-27" value="Gestión de Categorías" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="RcdEPGXsy1WZwWXos3ms-27" value="Gestión de Clientes" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="730" y="600" width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RcdEPGXsy1WZwWXos3ms-28" value="Agregar categoría" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="RcdEPGXsy1WZwWXos3ms-28" value="Agregar cliente" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="650" y="510" width="112.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RcdEPGXsy1WZwWXos3ms-29" value="Eliminar categoría" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="RcdEPGXsy1WZwWXos3ms-29" value="Eliminar cliente" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="855" y="520" width="112.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RcdEPGXsy1WZwWXos3ms-30" value="Actualizar categoría" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="RcdEPGXsy1WZwWXos3ms-30" value="Actualizar cliente" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="865" y="692.5" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RcdEPGXsy1WZwWXos3ms-31" value="Buscar categoría" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="RcdEPGXsy1WZwWXos3ms-31" value="Buscar cliente" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="692.5" width="112.5" height="40" as="geometry" />
         </mxCell>
       </root>
